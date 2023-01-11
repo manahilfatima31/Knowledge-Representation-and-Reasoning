@@ -1,0 +1,13 @@
+name,code,credit,chapters,outline
+,,,,
+IS Audit and Control ,CS494,3,IS Audit and Control ,"Overview of Information System Auditing. Information System Audit Process. Management Planning and Organizing IS Strategy .Security of Information Assets. System Development Management Controls. Programming Management Controls. Data Resource Management Controls. Security Management Controls. Operations Management Controls. Quality Assurance Management Controls. Input, Process and Output Controls.Database and Communication Controls.Computerized Audit Software.Performance Measurement Tools.Disaster Recovery and Business Continuity."
+Design Defect ,SE4031,3,Design Defect ,"Introduction to software architecture, the architecture business cycle, architectural styles of software systems, software qualities through architectural style, software architecture description methods, the software architecture analysis method, software patterns, software architectural frameworks, pattern language, antipatterns."
+NLP,CS535,3,N-gram Language Models,The role of language models. Simple N-gram models. Estimating parameters and smoothing. Evaluating language models.
+NLP,CS536,3,Basic Neural Networks,"Any basic introduction to perceptron and backpropagation such as section 18.7 in Artificial Intelligence: A Modern Approach (3rd ed), Chapter 4 of Machine Learning, or sections 5.0 - 5.3.3 of Pattern Recognition and Machine Learning."
+NLP,CS537,3,LSTM Recurrent Neural Networks,"Understanding LSTM Networks blog post, optionally the original paper Long Short Term Memory."
+NLP,CS538,3,Syntactic parsing,Grammar formalisms and treebanks. Efficient parsing for context-free grammars (CFGs). Statistical parsing and probabilistic CFGs (PCFGs). Lexicalized PCFGs. Neural shift-reduce dependency parsing (see this paper).
+NLP,CS539,3,Semantic Analysis,Lexical semantics and word-sense disambiguation. Compositional semantics. Semantic Role Labeling and Semantic Parsing.
+NLP,CS540,3,Information Extraction (IE),Named entity recognition and relation extraction. IE using sequence labeling.
+NLP,CS541,3,Machine Translation (MT),"Basic issues in MT. Statistical translation, word alignment, phrase-based translation, and synchronous grammars."
+NLP,CS542,3,Introduction,"NLP tasks in syntax, semantics, and pragmatics. Applications such as information extraction, question answering, and machine translation. The problem of ambiguity. The role of machine learning. Brief history of the field."
+NLP,CS543,3,Part Of Speech Tagging and Sequence Labeling,Lexical syntax. Hidden Markov Models (Forward and Viterbi algorithms and EM training).

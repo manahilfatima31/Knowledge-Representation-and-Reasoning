@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:coursee="file:///data/coursee.csv#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:j.0="http://topbraid.org/tables#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xml:base="file:///data/coursee.csv" > 
+  <rdf:Description rdf:about="">
+    <owl:imports rdf:resource="http://topbraid.org/tables"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Ontology"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-9">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9</j.0:rowIndex>
+    <coursee:outline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NLP tasks in syntax, semantics, and pragmatics. Applications such as information extraction, question answering, and machine translation. The problem of ambiguity. The role of machine learning. Brief history of the field.</coursee:outline>
+    <coursee:chapters rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Introduction</coursee:chapters>
+    <coursee:credit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</coursee:credit>
+    <coursee:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS542</coursee:code>
+    <coursee:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NLP</coursee:name>
+    <rdf:type rdf:resource="#coursee"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#outline">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <j.0:columnIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</j.0:columnIndex>
+    <rdfs:label>outline</rdfs:label>
+    <rdfs:domain rdf:resource="#coursee"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-0">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</j.0:rowIndex>
+    <coursee:outline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Overview of Information System Auditing. Information System Audit Process. Management Planning and Organizing IS Strategy .Security of Information Assets. System Development Management Controls. Programming Management Controls. Data Resource Management Controls. Security Management Controls. Operations Management Controls. Quality Assurance Management Controls. Input, Process and Output Controls.Database and Communication Controls.Computerized Audit Software.Performance Measurement Tools.Disaster Recovery and Business Continuity.</coursee:outline>
+    <coursee:chapters rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS Audit and Control </coursee:chapters>
+    <coursee:credit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</coursee:credit>
+    <coursee:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS494</coursee:code>
+    <coursee:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS Audit and Control </coursee:name>
+    <rdf:type rdf:resource="#coursee"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#chapters">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <j.0:columnIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</j.0:columnIndex>
+    <rdfs:label>chapters</rdfs:label>
+    <rdfs:domain rdf:resource="#coursee"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-2">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</j.0:rowIndex>
+    <coursee:outline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The role of language models. Simple N-gram models. Estimating parameters and smoothing. Evaluating language models.</coursee:outline>
+    <coursee:chapters rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N-gram Language Models</coursee:chapters>
+    <coursee:credit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</coursee:credit>
+    <coursee:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS535</coursee:code>
+    <coursee:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NLP</coursee:name>
+    <rdf:type rdf:resource="#coursee"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-1">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</j.0:rowIndex>
+    <coursee:outline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Introduction to software architecture, the architecture business cycle, architectural styles of software systems, software qualities through architectural style, software architecture description methods, the software architecture analysis method, software patterns, software architectural frameworks, pattern language, antipatterns.</coursee:outline>
+    <coursee:chapters rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Design Defect </coursee:chapters>
+    <coursee:credit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</coursee:credit>
+    <coursee:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SE4031</coursee:code>
+    <coursee:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Design Defect </coursee:name>
+    <rdf:type rdf:resource="#coursee"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#coursee">
+    <j.0:sheetIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</j.0:sheetIndex>
+    <rdfs:label>coursee</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#code">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <j.0:columnIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</j.0:columnIndex>
+    <rdfs:label>code</rdfs:label>
+    <rdfs:domain rdf:resource="#coursee"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-10">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">10</j.0:rowIndex>
+    <coursee:outline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lexical syntax. Hidden Markov Models (Forward and Viterbi algorithms and EM training).</coursee:outline>
+    <coursee:chapters rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Part Of Speech Tagging and Sequence Labeling</coursee:chapters>
+    <coursee:credit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</coursee:credit>
+    <coursee:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS543</coursee:code>
+    <coursee:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NLP</coursee:name>
+    <rdf:type rdf:resource="#coursee"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-4">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</j.0:rowIndex>
+    <coursee:outline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Understanding LSTM Networks blog post, optionally the original paper Long Short Term Memory.</coursee:outline>
+    <coursee:chapters rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LSTM Recurrent Neural Networks</coursee:chapters>
+    <coursee:credit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</coursee:credit>
+    <coursee:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS537</coursee:code>
+    <coursee:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NLP</coursee:name>
+    <rdf:type rdf:resource="#coursee"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-5">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</j.0:rowIndex>
+    <coursee:outline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grammar formalisms and treebanks. Efficient parsing for context-free grammars (CFGs). Statistical parsing and probabilistic CFGs (PCFGs). Lexicalized PCFGs. Neural shift-reduce dependency parsing (see this paper).</coursee:outline>
+    <coursee:chapters rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Syntactic parsing</coursee:chapters>
+    <coursee:credit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</coursee:credit>
+    <coursee:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS538</coursee:code>
+    <coursee:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NLP</coursee:name>
+    <rdf:type rdf:resource="#coursee"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-6">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</j.0:rowIndex>
+    <coursee:outline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lexical semantics and word-sense disambiguation. Compositional semantics. Semantic Role Labeling and Semantic Parsing.</coursee:outline>
+    <coursee:chapters rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Semantic Analysis</coursee:chapters>
+    <coursee:credit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</coursee:credit>
+    <coursee:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS539</coursee:code>
+    <coursee:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NLP</coursee:name>
+    <rdf:type rdf:resource="#coursee"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-3">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</j.0:rowIndex>
+    <coursee:outline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Any basic introduction to perceptron and backpropagation such as section 18.7 in Artificial Intelligence: A Modern Approach (3rd ed), Chapter 4 of Machine Learning, or sections 5.0 - 5.3.3 of Pattern Recognition and Machine Learning.</coursee:outline>
+    <coursee:chapters rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Basic Neural Networks</coursee:chapters>
+    <coursee:credit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</coursee:credit>
+    <coursee:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS536</coursee:code>
+    <coursee:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NLP</coursee:name>
+    <rdf:type rdf:resource="#coursee"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#credit">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <j.0:columnIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</j.0:columnIndex>
+    <rdfs:label>credit</rdfs:label>
+    <rdfs:domain rdf:resource="#coursee"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-8">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8</j.0:rowIndex>
+    <coursee:outline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Basic issues in MT. Statistical translation, word alignment, phrase-based translation, and synchronous grammars.</coursee:outline>
+    <coursee:chapters rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Machine Translation (MT)</coursee:chapters>
+    <coursee:credit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</coursee:credit>
+    <coursee:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS541</coursee:code>
+    <coursee:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NLP</coursee:name>
+    <rdf:type rdf:resource="#coursee"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-7">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7</j.0:rowIndex>
+    <coursee:outline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Named entity recognition and relation extraction. IE using sequence labeling.</coursee:outline>
+    <coursee:chapters rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Information Extraction (IE)</coursee:chapters>
+    <coursee:credit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</coursee:credit>
+    <coursee:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS540</coursee:code>
+    <coursee:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NLP</coursee:name>
+    <rdf:type rdf:resource="#coursee"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#name">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <j.0:columnIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</j.0:columnIndex>
+    <rdfs:label>name</rdfs:label>
+    <rdfs:domain rdf:resource="#coursee"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+</rdf:RDF>
+
+<!-- Created with TopBraid -->

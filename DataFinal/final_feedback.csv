@@ -1,0 +1,435 @@
+Teacher,Course,Type,Question,Wt.,Avg.,Prod
+Sayed Yousuf,CS441,Course Content and organization,The course objective was clear,0,3.12,0
+Sayed Yousuf,CS441,Course Content and organization,The course workload was manageable,1,3.24,3.24
+Sayed Yousuf,CS441,Course Content and organization,"The course was well organized ( e.g. timely access to materials, notification of changes, etc.)",1,3.18,3.18
+Sayed Yousuf,CS441,Teacher Evaluation,The instructor is prepared for each class,1,3.41,3.41
+Sayed Yousuf,CS441,Teacher Evaluation,The instructor demonstrates knowledge of the subject,1,3.35,3.35
+Sayed Yousuf,CS441,Teacher Evaluation,The instructor has completed the whole course,1,3.41,3.41
+Sayed Yousuf,CS441,Teacher Evaluation,The instructor provides additional material apart from,0,3.24,0
+Sayed Yousuf,CS441,Teacher Evaluation,The instructor communicates the subject matter effectively,1,3.29,3.29
+Sayed Yousuf,CS441,Teacher Evaluation,The instructor shows respect towards students and encourages class participation,1,3.41,3.41
+Sayed Yousuf,CS441,Teacher Evaluation,The instructor arrived on time,1,3.53,3.53
+Sayed Yousuf,CS441,Teacher Evaluation,The instructor lefton time,1,3.47,3.47
+Sayed Yousuf,CS441,Teacher Evaluation,The instructor is fair in examination,1,3.35,3.35
+Sayed Yousuf,CS441,Teacher Evaluation,The instructor returned the graded scripts etc. in a reasonable amount of time,1,3.24,3.24
+Sayed Yousuf,CS441,Teacher Evaluation,The instructor was available during the specified office hours,0,3.29,0
+Sayed Yousuf,CS441,Teacher Evaluation,The subject matter presented in the course has increased your knowledge of the subject,1,3.35,3.35
+Sayed Yousuf,CS441,Teacher Evaluation,The assignments and exams covered the materials presented in the course,1,3.41,3.41
+Sayed Yousuf,CS441,Teacher Evaluation,The course Material is modern and updated,0,3.53,0
+Sayed Yousuf,CS441,Student Contribution,Did you actively participated in this course,0,3.18,0
+Sayed Yousuf,CS441,Student Contribution,Did you learn from this course,1,3.24,3.24
+Sayed Yousuf,CS441,Learning Environment and Teaching methods,"Was this course well structured to achieve the learning outcomes (there was a good balance of lectures, tutorials, practicals etc.)",1,3.18,3.18
+Sayed Yousuf,CS441,Learning Environment and Teaching methods,Did the learning and teaching methods encouragedparticipation?,1,3.18,3.18
+Sayed Yousuf,CS441,Learning Environment and Teaching methods,Was classroom environment conducive to learning?,0,3.35,0
+Sayed Yousuf,CS441,Learning Environment and Teaching methods,Were classrooms satisfactory?,0,3.35,0
+Sayed Yousuf,CS441,Learning Resources,Recommended reading books etc. were relevant and appropriate,0,2.88,0
+Sayed Yousuf,CS441,Learning Resources,Provision of learning resources in the library was adequate and appropriate (if relevant),0,2.94,0
+Sayed Yousuf,CS441,Quality of Delivery,The course stimulated my interest and thought in the subject area,1,2.94,2.94
+Sayed Yousuf,CS441,Quality of Delivery,Pace of the course was appropriate,1,2.94,2.94
+Sayed Yousuf,CS441,Quality of Delivery,Ideas and concepts were presented clearly,1,3.24,3.24
+Sayed Yousuf,CS441,Instructor/TA evaluation,I understood the lectures,0,2.88,0
+Sayed Yousuf,CS441,Instructor/TA evaluation,The material was well organized and presented,1,3.53,3.53
+Sayed Yousuf,CS441,Instructor/TA evaluation,The instructor was responsive to student needs and problems,1,3.35,3.35
+Sayed Yousuf,CS441,Instructor/TA evaluation,Had the instructor been regular throughout the course?,1,3.41,3.41
+Sayed Yousuf,CS441,Tutorial,The material in the tutorials was useful,0,3.41,0
+Sayed Yousuf,CS441,Tutorial,I was happy with the amount of work needed for tutorials,0,3.29,0
+Sayed Yousuf,CS441,Tutorial,The tutor dealt effectively with my problems,0,3.29,0
+Sayed Yousuf,CS402 ,Course Content and organization,The course objective was clear,0,2.92,0
+Sayed Yousuf,CS402 ,Course Content and organization,The course workload was manageable,1,3.03,3.03
+Sayed Yousuf,CS402 ,Course Content and organization,"The course was well organized ( e.g. timely access to materials, notification of changes, etc.)",1,2.95,2.95
+Sayed Yousuf,CS402 ,Teacher Evaluation,The instructor is prepared for each class,1,3.18,3.18
+Sayed Yousuf,CS402 ,Teacher Evaluation,The instructor demonstrates knowledge of the subject,1,3.21,3.21
+Sayed Yousuf,CS402 ,Teacher Evaluation,The instructor has completed the whole course,1,3.08,3.08
+Sayed Yousuf,CS402 ,Teacher Evaluation,The instructor provides additional material apart from,0,3.08,0
+Sayed Yousuf,CS402 ,Teacher Evaluation,The instructor communicates the subject matter effectively,1,3.18,3.18
+Sayed Yousuf,CS402 ,Teacher Evaluation,The instructor shows respect towards students and encourages class participation,1,3.23,3.23
+Sayed Yousuf,CS402 ,Teacher Evaluation,The instructor arrived on time,1,3.23,3.23
+Sayed Yousuf,CS402 ,Teacher Evaluation,The instructor lefton time,1,3.15,3.15
+Sayed Yousuf,CS402 ,Teacher Evaluation,The instructor is fair in examination,1,3.21,3.21
+Sayed Yousuf,CS402 ,Teacher Evaluation,The instructor returned the graded scripts etc. in a reasonable amount of time,1,2.95,2.95
+Sayed Yousuf,CS402 ,Teacher Evaluation,The instructor was available during the specified office hours,0,3.08,0
+Sayed Yousuf,CS402 ,Teacher Evaluation,The subject matter presented in the course has increased your knowledge of the subject,1,3.26,3.26
+Sayed Yousuf,CS402 ,Teacher Evaluation,The assignments and exams covered the materials presented in the course,1,3.23,3.23
+Sayed Yousuf,CS402 ,Teacher Evaluation,The course Material is modern and updated,0,3.13,0
+Sayed Yousuf,CS402 ,Student Contribution,Did you actively participated in this course,0,3.05,0
+Sayed Yousuf,CS402 ,Student Contribution,Did you learn from this course,1,3.1,3.1
+Sayed Yousuf,CS402 ,Learning Environment and Teaching methods,"Was this course well structured to achieve the learning outcomes (there was a good balance of lectures, tutorials, practicals etc.)",1,3.13,3.13
+Sayed Yousuf,CS402 ,Learning Environment and Teaching methods,Did the learning and teaching methods encouragedparticipation?,1,3.15,3.15
+Sayed Yousuf,CS402 ,Learning Environment and Teaching methods,Was classroom environment conducive to learning?,0,3.13,0
+Sayed Yousuf,CS402 ,Learning Environment and Teaching methods,Were classrooms satisfactory?,0,3.05,0
+Sayed Yousuf,CS402 ,Learning Resources,Recommended reading books etc. were relevant and appropriate,0,3,0
+Sayed Yousuf,CS402 ,Learning Resources,Provision of learning resources in the library was adequate and appropriate (if relevant),0,2.97,0
+Sayed Yousuf,CS402 ,Quality of Delivery,The course stimulated my interest and thought in the subject area,1,3.05,3.05
+Sayed Yousuf,CS402 ,Quality of Delivery,Pace of the course was appropriate,1,3.03,3.03
+Sayed Yousuf,CS402 ,Quality of Delivery,Ideas and concepts were presented clearly,1,3.13,3.13
+Sayed Yousuf,CS402 ,Instructor/TA evaluation,I understood the lectures,0,3.03,0
+Sayed Yousuf,CS402 ,Instructor/TA evaluation,The material was well organized and presented,1,3.38,3.38
+Sayed Yousuf,CS402 ,Instructor/TA evaluation,The instructor was responsive to student needs and problems,1,3.23,3.23
+Sayed Yousuf,CS402 ,Instructor/TA evaluation,Had the instructor been regular throughout the course?,1,3.31,3.31
+Sayed Yousuf,CS402 ,Tutorial,The material in the tutorials was useful,0,3.13,0
+Sayed Yousuf,CS402 ,Tutorial,I was happy with the amount of work needed for tutorials,0,3.18,0
+Sayed Yousuf,CS402 ,Tutorial,The tutor dealt effectively with my problems,0,3.23,0
+Muhammad Kashif Siddiqui,CS4050 ,Course Content and organization,The course objective was clear,0,3.66,0
+Muhammad Kashif Siddiqui,CS4050 ,Course Content and organization,The course workload was manageable,1,3.68,3.68
+Muhammad Kashif Siddiqui,CS4050 ,Course Content and organization,"The course was well organized ( e.g. timely access to materials, notification of changes, etc.)",1,3.66,3.66
+Muhammad Kashif Siddiqui,CS4050 ,Teacher Evaluation,The instructor is prepared for each class,1,3.66,3.66
+Muhammad Kashif Siddiqui,CS4050 ,Teacher Evaluation,The instructor demonstrates knowledge of the subject,1,3.68,3.68
+Muhammad Kashif Siddiqui,CS4050 ,Teacher Evaluation,The instructor has completed the whole course,1,3.66,3.66
+Muhammad Kashif Siddiqui,CS4050 ,Teacher Evaluation,The instructor provides additional material apart from,0,3.59,0
+Muhammad Kashif Siddiqui,CS4050 ,Teacher Evaluation,The instructor communicates the subject matter effectively,1,3.66,3.66
+Muhammad Kashif Siddiqui,CS4050 ,Teacher Evaluation,The instructor shows respect towards students and encourages class participation,1,3.66,3.66
+Muhammad Kashif Siddiqui,CS4050 ,Teacher Evaluation,The instructor arrived on time,1,3.63,3.63
+Muhammad Kashif Siddiqui,CS4050 ,Teacher Evaluation,The instructor lefton time,1,3.59,3.59
+Muhammad Kashif Siddiqui,CS4050 ,Teacher Evaluation,The instructor is fair in examination,1,3.54,3.54
+Muhammad Kashif Siddiqui,CS4050 ,Teacher Evaluation,The instructor returned the graded scripts etc. in a reasonable amount of time,1,3.46,3.46
+Muhammad Kashif Siddiqui,CS4050 ,Teacher Evaluation,The instructor was available during the specified office hours,0,3.37,0
+Muhammad Kashif Siddiqui,CS4050 ,Teacher Evaluation,The subject matter presented in the course has increased your knowledge of the subject,1,3.61,3.61
+Muhammad Kashif Siddiqui,CS4050 ,Teacher Evaluation,The assignments and exams covered the materials presented in the course,1,3.56,3.56
+Muhammad Kashif Siddiqui,CS4050 ,Teacher Evaluation,The course Material is modern and updated,0,3.59,0
+Muhammad Kashif Siddiqui,CS4050 ,Student Contribution,Did you actively participated in this course,0,3.59,0
+Muhammad Kashif Siddiqui,CS4050 ,Student Contribution,Did you learn from this course,1,3.61,3.61
+Muhammad Kashif Siddiqui,CS4050 ,Learning Environment and Teaching methods,"Was this course well structured to achieve the learning outcomes (there was a good balance of lectures, tutorials, practicals etc.)",1,3.54,3.54
+Muhammad Kashif Siddiqui,CS4050 ,Learning Environment and Teaching methods,Did the learning and teaching methods encouragedparticipation?,1,3.63,3.63
+Muhammad Kashif Siddiqui,CS4050 ,Learning Environment and Teaching methods,Was classroom environment conducive to learning?,0,3.61,0
+Muhammad Kashif Siddiqui,CS4050 ,Learning Environment and Teaching methods,Were classrooms satisfactory?,0,3.54,0
+Muhammad Kashif Siddiqui,CS4050 ,Learning Resources,Recommended reading books etc. were relevant and appropriate,0,3.54,0
+Muhammad Kashif Siddiqui,CS4050 ,Learning Resources,Provision of learning resources in the library was adequate and appropriate (if relevant),0,3.49,0
+Muhammad Kashif Siddiqui,CS4050 ,Quality of Delivery,The course stimulated my interest and thought in the subject area,1,3.56,3.56
+Muhammad Kashif Siddiqui,CS4050 ,Quality of Delivery,Pace of the course was appropriate,1,3.63,3.63
+Muhammad Kashif Siddiqui,CS4050 ,Quality of Delivery,Ideas and concepts were presented clearly,1,3.68,3.68
+Muhammad Kashif Siddiqui,CS4050 ,Instructor/TA evaluation,I understood the lectures,0,3.63,0
+Muhammad Kashif Siddiqui,CS4050 ,Instructor/TA evaluation,The material was well organized and presented,1,3.71,3.71
+Muhammad Kashif Siddiqui,CS4050 ,Instructor/TA evaluation,The instructor was responsive to student needs and problems,1,3.66,3.66
+Muhammad Kashif Siddiqui,CS4050 ,Instructor/TA evaluation,Had the instructor been regular throughout the course?,1,3.71,3.71
+Muhammad Kashif Siddiqui,CS4050 ,Tutorial,The material in the tutorials was useful,0,3.59,0
+Muhammad Kashif Siddiqui,CS4050 ,Tutorial,I was happy with the amount of work needed for tutorials,0,3.66,0
+Muhammad Kashif Siddiqui,CS4050 ,Tutorial,The tutor dealt effectively with my problems,0,3.63,0
+Syed Ali Shan,CS4057 ,Course Content and organization,The course objective was clear,1,3.86,3.86
+Syed Ali Shan,CS4057 ,Course Content and organization,The course workload was manageable,1,3.88,3.88
+Syed Ali Shan,CS4057 ,Course Content and organization,"The course was well organized ( e.g. timely access to materials, notification of changes, etc.)",1,3.88,3.88
+Syed Ali Shan,CS4057 ,Teacher Evaluation,The instructor is prepared for each class,1,3.86,3.86
+Syed Ali Shan,CS4057 ,Teacher Evaluation,The instructor demonstrates knowledge of the subject,1,3.88,3.88
+Syed Ali Shan,CS4057 ,Teacher Evaluation,The instructor has completed the whole course,1,3.88,3.88
+Syed Ali Shan,CS4057 ,Teacher Evaluation,The instructor provides additional material apart from,1,3.86,3.86
+Syed Ali Shan,CS4057 ,Teacher Evaluation,The instructor communicates the subject matter effectively,1,3.88,3.88
+Syed Ali Shan,CS4057 ,Teacher Evaluation,The instructor shows respect towards students and encourages class participation,1,3.88,3.88
+Syed Ali Shan,CS4057 ,Teacher Evaluation,The instructor arrived on time,1,3.88,3.88
+Syed Ali Shan,CS4057 ,Teacher Evaluation,The instructor lefton time,1,3.86,3.86
+Syed Ali Shan,CS4057 ,Teacher Evaluation,The instructor is fair in examination,1,3.88,3.88
+Syed Ali Shan,CS4057 ,Teacher Evaluation,The instructor returned the graded scripts etc. in a reasonable amount of time,1,3.84,3.84
+Syed Ali Shan,CS4057 ,Teacher Evaluation,The instructor was available during the specified office hours,1,3.88,3.88
+Syed Ali Shan,CS4057 ,Teacher Evaluation,The subject matter presented in the course has increased your knowledge of the subject,1,3.86,3.86
+Syed Ali Shan,CS4057 ,Teacher Evaluation,The assignments and exams covered the materials presented in the course,1,3.86,3.86
+Syed Ali Shan,CS4057 ,Teacher Evaluation,The course Material is modern and updated,1,3.8,3.8
+Syed Ali Shan,CS4057 ,Student Contribution,Did you actively participated in this course,1,3.88,3.88
+Syed Ali Shan,CS4057 ,Student Contribution,Did you learn from this course,1,3.86,3.86
+Syed Ali Shan,CS4057 ,Learning Environment and Teaching methods,"Was this course well structured to achieve the learning outcomes (there was a good balance of lectures, tutorials, practicals etc.)",1,3.88,3.88
+Syed Ali Shan,CS4057 ,Learning Environment and Teaching methods,Did the learning and teaching methods encouragedparticipation?,1,3.82,3.82
+Syed Ali Shan,CS4057 ,Learning Environment and Teaching methods,Was classroom environment conducive to learning?,1,3.88,3.88
+Syed Ali Shan,CS4057 ,Learning Environment and Teaching methods,Were classrooms satisfactory?,1,3.88,3.88
+Muhammad Kashif Siddiqui,CS494 ,Course Content and organization,The course objective was clear,0,3.3,0
+Muhammad Kashif Siddiqui,CS494 ,Course Content and organization,The course workload was manageable,1,3.4,3.4
+Muhammad Kashif Siddiqui,CS494 ,Course Content and organization,"The course was well organized ( e.g. timely access to materials, notification of changes, etc.)",1,3.6,3.6
+Muhammad Kashif Siddiqui,CS494 ,Teacher Evaluation,The instructor is prepared for each class,1,3.7,3.7
+Muhammad Kashif Siddiqui,CS494 ,Teacher Evaluation,The instructor demonstrates knowledge of the subject,1,3.7,3.7
+Muhammad Kashif Siddiqui,CS494 ,Teacher Evaluation,The instructor has completed the whole course,1,3.7,3.7
+Muhammad Kashif Siddiqui,CS494 ,Teacher Evaluation,The instructor provides additional material apart from,0,3.6,0
+Muhammad Kashif Siddiqui,CS494 ,Teacher Evaluation,The instructor communicates the subject matter effectively,1,3.6,3.6
+Muhammad Kashif Siddiqui,CS494 ,Teacher Evaluation,The instructor shows respect towards students and encourages class participation,1,3.7,3.7
+Muhammad Kashif Siddiqui,CS494 ,Teacher Evaluation,The instructor arrived on time,1,3.7,3.7
+Muhammad Kashif Siddiqui,CS494 ,Teacher Evaluation,The instructor lefton time,1,3.7,3.7
+Muhammad Kashif Siddiqui,CS494 ,Teacher Evaluation,The instructor is fair in examination,1,3.7,3.7
+Muhammad Kashif Siddiqui,CS494 ,Teacher Evaluation,The instructor returned the graded scripts etc. in a reasonable amount of time,1,3.7,3.7
+Muhammad Kashif Siddiqui,CS494 ,Teacher Evaluation,The instructor was available during the specified office hours,0,3.6,0
+Muhammad Kashif Siddiqui,CS494 ,Teacher Evaluation,The subject matter presented in the course has increased your knowledge of the subject,1,3.7,3.7
+Muhammad Kashif Siddiqui,CS494 ,Teacher Evaluation,The assignments and exams covered the materials presented in the course,1,3.7,3.7
+Muhammad Kashif Siddiqui,CS494 ,Teacher Evaluation,The course Material is modern and updated,0,3.6,0
+Muhammad Kashif Siddiqui,CS494 ,Student Contribution,Did you actively participated in this course,0,3.6,0
+Muhammad Kashif Siddiqui,CS494 ,Student Contribution,Did you learn from this course,1,3.6,3.6
+Muhammad Kashif Siddiqui,CS494 ,Learning Environment and Teaching methods,"Was this course well structured to achieve the learning outcomes (there was a good balance of lectures, tutorials, practicals etc.)",1,3.6,3.6
+Muhammad Kashif Siddiqui,CS494 ,Learning Environment and Teaching methods,Did the learning and teaching methods encouragedparticipation?,1,3.6,3.6
+Muhammad Kashif Siddiqui,CS494 ,Learning Environment and Teaching methods,Was classroom environment conducive to learning?,0,3.6,0
+Muhammad Kashif Siddiqui,CS494 ,Learning Environment and Teaching methods,Were classrooms satisfactory?,0,3.6,0
+Muhammad Kashif Siddiqui,CS494 ,Learning Resources,Recommended reading books etc. were relevant and appropriate,0,3.3,0
+Muhammad Kashif Siddiqui,CS494 ,Learning Resources,Provision of learning resources in the library was adequate and appropriate (if relevant),0,3.5,0
+Muhammad Kashif Siddiqui,CS494 ,Quality of Delivery,The course stimulated my interest and thought in the subject area,1,3.6,3.6
+Muhammad Kashif Siddiqui,CS494 ,Quality of Delivery,Pace of the course was appropriate,1,3.5,3.5
+Muhammad Kashif Siddiqui,CS494 ,Quality of Delivery,Ideas and concepts were presented clearly,1,3.5,3.5
+Muhammad Kashif Siddiqui,CS494 ,Instructor/TA evaluation,I understood the lectures,0,3.6,0
+Muhammad Kashif Siddiqui,CS494 ,Instructor/TA evaluation,The material was well organized and presented,1,3.6,3.6
+Muhammad Kashif Siddiqui,CS494 ,Instructor/TA evaluation,The instructor was responsive to student needs and problems,1,3.6,3.6
+Muhammad Kashif Siddiqui,CS494 ,Instructor/TA evaluation,Had the instructor been regular throughout the course?,1,3.5,3.5
+Muhammad Kashif Siddiqui,CS494 ,Tutorial,The material in the tutorials was useful,0,3.7,0
+Muhammad Kashif Siddiqui,CS494 ,Tutorial,I was happy with the amount of work needed for tutorials,0,3.6,0
+Muhammad Kashif Siddiqui,CS494 ,Tutorial,The tutor dealt effectively with my problems,0,3.6,0
+Dr. MUHAMMAD SARIM,CS5031 ,Course Content and organization,The course objective was clear,0,3.17,0
+Dr. MUHAMMAD SARIM,CS5031 ,Course Content and organization,The course workload was manageable,1,3.39,3.39
+Dr. MUHAMMAD SARIM,CS5031 ,Course Content and organization,"The course was well organized ( e.g. timely access to materials, notification of changes, etc.)",1,3.22,3.22
+Dr. MUHAMMAD SARIM,CS5031 ,Teacher Evaluation,The instructor is prepared for each class,1,3.33,3.33
+Dr. MUHAMMAD SARIM,CS5031 ,Teacher Evaluation,The instructor demonstrates knowledge of the subject,1,3.44,3.44
+Dr. MUHAMMAD SARIM,CS5031 ,Teacher Evaluation,The instructor has completed the whole course,1,3.33,3.33
+Dr. MUHAMMAD SARIM,CS5031 ,Teacher Evaluation,The instructor provides additional material apart from,0,3.28,0
+Dr. MUHAMMAD SARIM,CS5031 ,Teacher Evaluation,The instructor communicates the subject matter effectively,1,3.28,3.28
+Dr. MUHAMMAD SARIM,CS5031 ,Teacher Evaluation,The instructor shows respect towards students and encourages class participation,1,3.44,3.44
+Dr. MUHAMMAD SARIM,CS5031 ,Teacher Evaluation,The instructor arrived on time,1,2.89,2.89
+Dr. MUHAMMAD SARIM,CS5031 ,Teacher Evaluation,The instructor lefton time,1,3.33,3.33
+Dr. MUHAMMAD SARIM,CS5031 ,Teacher Evaluation,The instructor is fair in examination,1,3.28,3.28
+Dr. MUHAMMAD SARIM,CS5031 ,Teacher Evaluation,The instructor returned the graded scripts etc. in a reasonable amount of time,1,3,3
+Dr. MUHAMMAD SARIM,CS5031 ,Teacher Evaluation,The instructor was available during the specified office hours,0,3,0
+Dr. MUHAMMAD SARIM,CS5031 ,Teacher Evaluation,The subject matter presented in the course has increased your knowledge of the subject,1,3.33,3.33
+Dr. MUHAMMAD SARIM,CS5031 ,Teacher Evaluation,The assignments and exams covered the materials presented in the course,1,3.39,3.39
+Dr. MUHAMMAD SARIM,CS5031 ,Teacher Evaluation,The course Material is modern and updated,0,3.33,0
+Dr. MUHAMMAD SARIM,CS5031 ,Student Contribution,Did you actively participated in this course,0,3.28,0
+Dr. MUHAMMAD SARIM,CS5031 ,Student Contribution,Did you learn from this course,1,3.33,3.33
+Dr. MUHAMMAD SARIM,CS5031 ,Learning Environment and Teaching methods,"Was this course well structured to achieve the learning outcomes (there was a good balance of lectures, tutorials, practicals etc.)",1,3.11,3.11
+Dr. MUHAMMAD SARIM,CS5031 ,Learning Environment and Teaching methods,Did the learning and teaching methods encouragedparticipation?,1,3.39,3.39
+Dr. MUHAMMAD SARIM,CS5031 ,Learning Environment and Teaching methods,Was classroom environment conducive to learning?,0,3.28,0
+Dr. MUHAMMAD SARIM,CS5031 ,Learning Environment and Teaching methods,Were classrooms satisfactory?,0,3.33,0
+Dr. MUHAMMAD SARIM,CS5031 ,Learning Resources,Recommended reading books etc. were relevant and appropriate,0,2.83,0
+Dr. MUHAMMAD SARIM,CS5031 ,Learning Resources,Provision of learning resources in the library was adequate and appropriate (if relevant),0,2.94,0
+Dr. MUHAMMAD SARIM,CS5031 ,Quality of Delivery,The course stimulated my interest and thought in the subject area,1,3.17,3.17
+Dr. MUHAMMAD SARIM,CS5031 ,Quality of Delivery,Pace of the course was appropriate,1,3.33,3.33
+Dr. MUHAMMAD SARIM,CS5031 ,Quality of Delivery,Ideas and concepts were presented clearly,1,3.33,3.33
+Dr. MUHAMMAD SARIM,CS5031 ,Instructor/TA evaluation,I understood the lectures,0,3.22,0
+Dr. MUHAMMAD SARIM,CS5031 ,Instructor/TA evaluation,The material was well organized and presented,1,3.33,3.33
+Dr. MUHAMMAD SARIM,CS5031 ,Instructor/TA evaluation,The instructor was responsive to student needs and problems,1,3.44,3.44
+Dr. MUHAMMAD SARIM,CS5031 ,Instructor/TA evaluation,Had the instructor been regular throughout the course?,1,3.11,3.11
+Dr. MUHAMMAD SARIM,CS5031 ,Tutorial,The material in the tutorials was useful,0,3.28,0
+Dr. MUHAMMAD SARIM,CS5031 ,Tutorial,I was happy with the amount of work needed for tutorials,0,3.33,0
+Dr. MUHAMMAD SARIM,CS5031 ,Tutorial,The tutor dealt effectively with my problems,0,3.39,0
+Syed Tassuduq Hussain,CS5047 ,Course Content and organization,The course objective was clear,0,3.55,0
+Syed Tassuduq Hussain,CS5047 ,Course Content and organization,The course workload was manageable,1,3.55,3.55
+Syed Tassuduq Hussain,CS5047 ,Course Content and organization,"The course was well organized ( e.g. timely access to materials, notification of changes, etc.)",1,3.55,3.55
+Syed Tassuduq Hussain,CS5047 ,Teacher Evaluation,The instructor is prepared for each class,1,3.64,3.64
+Syed Tassuduq Hussain,CS5047 ,Teacher Evaluation,The instructor demonstrates knowledge of the subject,1,3.64,3.64
+Syed Tassuduq Hussain,CS5047 ,Teacher Evaluation,The instructor has completed the whole course,1,3.59,3.59
+Syed Tassuduq Hussain,CS5047 ,Teacher Evaluation,The instructor provides additional material apart from,0,3.55,0
+Syed Tassuduq Hussain,CS5047 ,Teacher Evaluation,The instructor communicates the subject matter effectively,1,3.64,3.64
+Syed Tassuduq Hussain,CS5047 ,Teacher Evaluation,The instructor shows respect towards students and encourages class participation,1,3.64,3.64
+Syed Tassuduq Hussain,CS5047 ,Teacher Evaluation,The instructor arrived on time,1,3.64,3.64
+Syed Tassuduq Hussain,CS5047 ,Teacher Evaluation,The instructor lefton time,1,3.68,3.68
+Syed Tassuduq Hussain,CS5047 ,Teacher Evaluation,The instructor is fair in examination,1,3.59,3.59
+Syed Tassuduq Hussain,CS5047 ,Teacher Evaluation,The instructor returned the graded scripts etc. in a reasonable amount of time,1,3.55,3.55
+Syed Tassuduq Hussain,CS5047 ,Teacher Evaluation,The instructor was available during the specified office hours,0,3.59,0
+Syed Tassuduq Hussain,CS5047 ,Teacher Evaluation,The subject matter presented in the course has increased your knowledge of the subject,1,3.59,3.59
+Syed Tassuduq Hussain,CS5047 ,Teacher Evaluation,The assignments and exams covered the materials presented in the course,1,3.55,3.55
+Syed Tassuduq Hussain,CS5047 ,Teacher Evaluation,The course Material is modern and updated,0,3.59,0
+Syed Tassuduq Hussain,CS5047 ,Student Contribution,Did you actively participated in this course,0,3.64,0
+Syed Tassuduq Hussain,CS5047 ,Student Contribution,Did you learn from this course,1,3.55,3.55
+Syed Tassuduq Hussain,CS5047 ,Learning Environment and Teaching methods,"Was this course well structured to achieve the learning outcomes (there was a good balance of lectures, tutorials, practicals etc.)",1,3.59,3.59
+Syed Tassuduq Hussain,CS5047 ,Learning Environment and Teaching methods,Did the learning and teaching methods encouragedparticipation?,1,3.59,3.59
+Syed Tassuduq Hussain,CS5047 ,Learning Environment and Teaching methods,Was classroom environment conducive to learning?,0,3.55,0
+Syed Tassuduq Hussain,CS5047 ,Learning Environment and Teaching methods,Were classrooms satisfactory?,0,3.55,0
+Syed Tassuduq Hussain,CS5047 ,Learning Resources,Recommended reading books etc. were relevant and appropriate,0,3.32,0
+Syed Tassuduq Hussain,CS5047 ,Learning Resources,Provision of learning resources in the library was adequate and appropriate (if relevant),0,3.27,0
+Syed Tassuduq Hussain,CS5047 ,Quality of Delivery,The course stimulated my interest and thought in the subject area,1,3.45,3.45
+Syed Tassuduq Hussain,CS5047 ,Quality of Delivery,Pace of the course was appropriate,1,3.55,3.55
+Syed Tassuduq Hussain,CS5047 ,Quality of Delivery,Ideas and concepts were presented clearly,1,3.5,3.5
+Syed Tassuduq Hussain,CS5047 ,Instructor/TA evaluation,I understood the lectures,0,3.45,0
+Syed Tassuduq Hussain,CS5047 ,Instructor/TA evaluation,The material was well organized and presented,1,3.82,3.82
+Syed Tassuduq Hussain,CS5047 ,Instructor/TA evaluation,The instructor was responsive to student needs and problems,1,3.5,3.5
+Syed Tassuduq Hussain,CS5047 ,Instructor/TA evaluation,Had the instructor been regular throughout the course?,1,3.45,3.45
+Syed Tassuduq Hussain,CS5047 ,Tutorial,The material in the tutorials was useful,0,3.64,0
+Syed Tassuduq Hussain,CS5047 ,Tutorial,I was happy with the amount of work needed for tutorials,0,3.64,0
+Syed Tassuduq Hussain,CS5047 ,Tutorial,The tutor dealt effectively with my problems,0,3.64,0
+Syed Tassuduq Hussain,CS518 ,Course Content and organization,The course objective was clear,0,3.38,0
+Syed Tassuduq Hussain,CS518 ,Course Content and organization,The course workload was manageable,1,3.25,3.25
+Syed Tassuduq Hussain,CS518 ,Course Content and organization,"The course was well organized ( e.g. timely access to materials, notification of changes, etc.)",1,3.44,3.44
+Syed Tassuduq Hussain,CS518 ,Teacher Evaluation,The instructor is prepared for each class,1,3.44,3.44
+Syed Tassuduq Hussain,CS518 ,Teacher Evaluation,The instructor demonstrates knowledge of the subject,1,3.5,3.5
+Syed Tassuduq Hussain,CS518 ,Teacher Evaluation,The instructor has completed the whole course,1,3.44,3.44
+Syed Tassuduq Hussain,CS518 ,Teacher Evaluation,The instructor provides additional material apart from,0,3.38,0
+Syed Tassuduq Hussain,CS518 ,Teacher Evaluation,The instructor communicates the subject matter effectively,1,3.44,3.44
+Syed Tassuduq Hussain,CS518 ,Teacher Evaluation,The instructor shows respect towards students and encourages class participation,1,3.44,3.44
+Syed Tassuduq Hussain,CS518 ,Teacher Evaluation,The instructor arrived on time,1,3.38,3.38
+Syed Tassuduq Hussain,CS518 ,Teacher Evaluation,The instructor lefton time,1,3.44,3.44
+Syed Tassuduq Hussain,CS518 ,Teacher Evaluation,The instructor is fair in examination,1,3.44,3.44
+Syed Tassuduq Hussain,CS518 ,Teacher Evaluation,The instructor returned the graded scripts etc. in a reasonable amount of time,1,3.19,3.19
+Syed Tassuduq Hussain,CS518 ,Teacher Evaluation,The instructor was available during the specified office hours,0,3.38,0
+Syed Tassuduq Hussain,CS518 ,Teacher Evaluation,The subject matter presented in the course has increased your knowledge of the subject,1,3.44,3.44
+Syed Tassuduq Hussain,CS518 ,Teacher Evaluation,The assignments and exams covered the materials presented in the course,1,3.31,3.31
+Syed Tassuduq Hussain,CS518 ,Teacher Evaluation,The course Material is modern and updated,0,3.5,0
+Syed Tassuduq Hussain,CS518 ,Student Contribution,Did you actively participated in this course,0,3.44,0
+Syed Tassuduq Hussain,CS518 ,Student Contribution,Did you learn from this course,1,3.25,3.25
+Syed Tassuduq Hussain,CS518 ,Learning Environment and Teaching methods,"Was this course well structured to achieve the learning outcomes (there was a good balance of lectures, tutorials, practicals etc.)",1,3.38,3.38
+Syed Tassuduq Hussain,CS518 ,Learning Environment and Teaching methods,Did the learning and teaching methods encouragedparticipation?,1,3.25,3.25
+Syed Tassuduq Hussain,CS518 ,Learning Environment and Teaching methods,Was classroom environment conducive to learning?,0,3.31,0
+Syed Tassuduq Hussain,CS518 ,Learning Environment and Teaching methods,Were classrooms satisfactory?,0,3.25,0
+Syed Tassuduq Hussain,CS518 ,Learning Resources,Recommended reading books etc. were relevant and appropriate,0,3.5,0
+Syed Tassuduq Hussain,CS518 ,Learning Resources,Provision of learning resources in the library was adequate and appropriate (if relevant),0,3.13,0
+Syed Tassuduq Hussain,CS518 ,Quality of Delivery,The course stimulated my interest and thought in the subject area,1,3.38,3.38
+Syed Tassuduq Hussain,CS518 ,Quality of Delivery,Pace of the course was appropriate,1,3.5,3.5
+Syed Tassuduq Hussain,CS518 ,Quality of Delivery,Ideas and concepts were presented clearly,1,3.38,3.38
+Syed Tassuduq Hussain,CS518 ,Instructor/TA evaluation,I understood the lectures,0,3.38,0
+Syed Tassuduq Hussain,CS518 ,Instructor/TA evaluation,The material was well organized and presented,1,3.75,3.75
+Syed Tassuduq Hussain,CS518 ,Instructor/TA evaluation,The instructor was responsive to student needs and problems,1,3.44,3.44
+Syed Tassuduq Hussain,CS518 ,Instructor/TA evaluation,Had the instructor been regular throughout the course?,1,3.38,3.38
+Syed Tassuduq Hussain,CS518 ,Tutorial,The material in the tutorials was useful,0,3.38,0
+Syed Tassuduq Hussain,CS518 ,Tutorial,I was happy with the amount of work needed for tutorials,0,3.31,0
+Syed Tassuduq Hussain,CS518 ,Tutorial,The tutor dealt effectively with my problems,0,3.38,0
+Dr. MUHAMMAD SARIM,CS535 ,Course Content and organization,The course objective was clear,0,3.5,0
+Dr. MUHAMMAD SARIM,CS535 ,Course Content and organization,The course workload was manageable,1,3.7,3.7
+Dr. MUHAMMAD SARIM,CS535 ,Course Content and organization,"The course was well organized ( e.g. timely access to materials, notification of changes, etc.)",1,3.5,3.5
+Dr. MUHAMMAD SARIM,CS535 ,Teacher Evaluation,The instructor is prepared for each class,1,3.5,3.5
+Dr. MUHAMMAD SARIM,CS535 ,Teacher Evaluation,The instructor demonstrates knowledge of the subject,1,3.4,3.4
+Dr. MUHAMMAD SARIM,CS535 ,Teacher Evaluation,The instructor has completed the whole course,1,3.4,3.4
+Dr. MUHAMMAD SARIM,CS535 ,Teacher Evaluation,The instructor provides additional material apart from,0,3.2,0
+Dr. MUHAMMAD SARIM,CS535 ,Teacher Evaluation,The instructor communicates the subject matter effectively,1,3.5,3.5
+Dr. MUHAMMAD SARIM,CS535 ,Teacher Evaluation,The instructor shows respect towards students and encourages class participation,1,3.7,3.7
+Dr. MUHAMMAD SARIM,CS535 ,Teacher Evaluation,The instructor arrived on time,1,3.2,3.2
+Dr. MUHAMMAD SARIM,CS535 ,Teacher Evaluation,The instructor lefton time,1,3.5,3.5
+Dr. MUHAMMAD SARIM,CS535 ,Teacher Evaluation,The instructor is fair in examination,1,3.3,3.3
+Dr. MUHAMMAD SARIM,CS535 ,Teacher Evaluation,The instructor returned the graded scripts etc. in a reasonable amount of time,1,2.4,2.4
+Dr. MUHAMMAD SARIM,CS535 ,Teacher Evaluation,The instructor was available during the specified office hours,0,3.2,0
+Dr. MUHAMMAD SARIM,CS535 ,Teacher Evaluation,The subject matter presented in the course has increased your knowledge of the subject,1,3.5,3.5
+Dr. MUHAMMAD SARIM,CS535 ,Teacher Evaluation,The assignments and exams covered the materials presented in the course,1,3.6,3.6
+Dr. MUHAMMAD SARIM,CS535 ,Teacher Evaluation,The course Material is modern and updated,0,3.5,0
+Dr. MUHAMMAD SARIM,CS535 ,Student Contribution,Did you actively participated in this course,0,3.5,0
+Dr. MUHAMMAD SARIM,CS535 ,Student Contribution,Did you learn from this course,1,3.4,3.4
+Dr. MUHAMMAD SARIM,CS535 ,Learning Environment and Teaching methods,"Was this course well structured to achieve the learning outcomes (there was a good balance of lectures, tutorials, practicals etc.)",1,3.2,3.2
+Dr. MUHAMMAD SARIM,CS535 ,Learning Environment and Teaching methods,Did the learning and teaching methods encouragedparticipation?,1,3.6,3.6
+Dr. MUHAMMAD SARIM,CS535 ,Learning Environment and Teaching methods,Was classroom environment conducive to learning?,0,3.6,0
+Dr. MUHAMMAD SARIM,CS535 ,Learning Environment and Teaching methods,Were classrooms satisfactory?,0,3.7,0
+Dr. MUHAMMAD SARIM,CS535 ,Learning Resources,Recommended reading books etc. were relevant and appropriate,0,2.9,0
+Dr. MUHAMMAD SARIM,CS535 ,Learning Resources,Provision of learning resources in the library was adequate and appropriate (if relevant),0,3,0
+Dr. MUHAMMAD SARIM,CS535 ,Quality of Delivery,The course stimulated my interest and thought in the subject area,1,3.2,3.2
+Dr. MUHAMMAD SARIM,CS535 ,Quality of Delivery,Pace of the course was appropriate,1,3.4,3.4
+Dr. MUHAMMAD SARIM,CS535 ,Quality of Delivery,Ideas and concepts were presented clearly,1,3.4,3.4
+Dr. MUHAMMAD SARIM,CS535 ,Instructor/TA evaluation,I understood the lectures,0,3.5,0
+Dr. MUHAMMAD SARIM,CS535 ,Instructor/TA evaluation,The material was well organized and presented,1,3.6,3.6
+Dr. MUHAMMAD SARIM,CS535 ,Instructor/TA evaluation,The instructor was responsive to student needs and problems,1,3.5,3.5
+Dr. MUHAMMAD SARIM,CS535 ,Instructor/TA evaluation,Had the instructor been regular throughout the course?,1,3.4,3.4
+Dr. MUHAMMAD SARIM,CS535 ,Tutorial,The material in the tutorials was useful,0,3.4,0
+Dr. MUHAMMAD SARIM,CS535 ,Tutorial,I was happy with the amount of work needed for tutorials,0,3.6,0
+Dr. MUHAMMAD SARIM,CS535 ,Tutorial,The tutor dealt effectively with my problems,0,3.5,0
+Sayed Yousuf,CS570 ,Course Content and organization,The course objective was clear,0,3,0
+Sayed Yousuf,CS570 ,Course Content and organization,The course workload was manageable,1,3.4,3.4
+Sayed Yousuf,CS570 ,Course Content and organization,"The course was well organized ( e.g. timely access to materials, notification of changes, etc.)",1,3.4,3.4
+Sayed Yousuf,CS570 ,Teacher Evaluation,The instructor is prepared for each class,1,3.6,3.6
+Sayed Yousuf,CS570 ,Teacher Evaluation,The instructor demonstrates knowledge of the subject,1,3.6,3.6
+Sayed Yousuf,CS570 ,Teacher Evaluation,The instructor has completed the whole course,1,3.5,3.5
+Sayed Yousuf,CS570 ,Teacher Evaluation,The instructor provides additional material apart from,0,3.6,0
+Sayed Yousuf,CS570 ,Teacher Evaluation,The instructor communicates the subject matter effectively,1,3.6,3.6
+Sayed Yousuf,CS570 ,Teacher Evaluation,The instructor shows respect towards students and encourages class participation,1,3.6,3.6
+Sayed Yousuf,CS570 ,Teacher Evaluation,The instructor arrived on time,1,3.6,3.6
+Sayed Yousuf,CS570 ,Teacher Evaluation,The instructor lefton time,1,3.6,3.6
+Sayed Yousuf,CS570 ,Teacher Evaluation,The instructor is fair in examination,1,3.5,3.5
+Sayed Yousuf,CS570 ,Teacher Evaluation,The instructor returned the graded scripts etc. in a reasonable amount of time,1,3.2,3.2
+Sayed Yousuf,CS570 ,Teacher Evaluation,The instructor was available during the specified office hours,0,3.5,0
+Sayed Yousuf,CS570 ,Teacher Evaluation,The subject matter presented in the course has increased your knowledge of the subject,1,3.6,3.6
+Sayed Yousuf,CS570 ,Teacher Evaluation,The assignments and exams covered the materials presented in the course,1,3.6,3.6
+Sayed Yousuf,CS570 ,Teacher Evaluation,The course Material is modern and updated,0,3.6,0
+Sayed Yousuf,CS570 ,Student Contribution,Did you actively participated in this course,0,3.4,0
+Sayed Yousuf,CS570 ,Student Contribution,Did you learn from this course,1,3.5,3.5
+Sayed Yousuf,CS570 ,Learning Environment and Teaching methods,"Was this course well structured to achieve the learning outcomes (there was a good balance of lectures, tutorials, practicals etc.)",1,3.5,3.5
+Sayed Yousuf,CS570 ,Learning Environment and Teaching methods,Did the learning and teaching methods encouragedparticipation?,1,3.4,3.4
+Sayed Yousuf,CS570 ,Learning Environment and Teaching methods,Was classroom environment conducive to learning?,0,3.5,0
+Sayed Yousuf,CS570 ,Learning Environment and Teaching methods,Were classrooms satisfactory?,0,3.6,0
+Sayed Yousuf,CS570 ,Learning Resources,Recommended reading books etc. were relevant and appropriate,0,3,0
+Sayed Yousuf,CS570 ,Learning Resources,Provision of learning resources in the library was adequate and appropriate (if relevant),0,2.9,0
+Sayed Yousuf,CS570 ,Quality of Delivery,The course stimulated my interest and thought in the subject area,1,3.1,3.1
+Sayed Yousuf,CS570 ,Quality of Delivery,Pace of the course was appropriate,1,3.5,3.5
+Sayed Yousuf,CS570 ,Quality of Delivery,Ideas and concepts were presented clearly,1,3.6,3.6
+Sayed Yousuf,CS570 ,Instructor/TA evaluation,I understood the lectures,0,3.6,0
+Sayed Yousuf,CS570 ,Instructor/TA evaluation,The material was well organized and presented,1,3.6,3.6
+Sayed Yousuf,CS570 ,Instructor/TA evaluation,The instructor was responsive to student needs and problems,1,3.3,3.3
+Sayed Yousuf,CS570 ,Instructor/TA evaluation,Had the instructor been regular throughout the course?,1,3.5,3.5
+Sayed Yousuf,CS570 ,Tutorial,The material in the tutorials was useful,0,3.2,0
+Sayed Yousuf,CS570 ,Tutorial,I was happy with the amount of work needed for tutorials,0,3.1,0
+Sayed Yousuf,CS570 ,Tutorial,The tutor dealt effectively with my problems,0,3.3,0
+Dr. MUHAMMAD SARIM,CS6003 ,Course Content and organization,The course objective was clear,0,2.33,0
+Dr. MUHAMMAD SARIM,CS6003 ,Course Content and organization,The course workload was manageable,1,3.33,3.33
+Dr. MUHAMMAD SARIM,CS6003 ,Course Content and organization,"The course was well organized ( e.g. timely access to materials, notification of changes, etc.)",1,3.67,3.67
+Dr. MUHAMMAD SARIM,CS6003 ,Teacher Evaluation,The instructor is prepared for each class,1,3,3
+Dr. MUHAMMAD SARIM,CS6003 ,Teacher Evaluation,The instructor demonstrates knowledge of the subject,1,3.67,3.67
+Dr. MUHAMMAD SARIM,CS6003 ,Teacher Evaluation,The instructor has completed the whole course,1,2.67,2.67
+Dr. MUHAMMAD SARIM,CS6003 ,Teacher Evaluation,The instructor provides additional material apart from,0,3.67,0
+Dr. MUHAMMAD SARIM,CS6003 ,Teacher Evaluation,The instructor communicates the subject matter effectively,1,4,4
+Dr. MUHAMMAD SARIM,CS6003 ,Teacher Evaluation,The instructor shows respect towards students and encourages class participation,1,3,3
+Dr. MUHAMMAD SARIM,CS6003 ,Teacher Evaluation,The instructor arrived on time,1,3,3
+Dr. MUHAMMAD SARIM,CS6003 ,Teacher Evaluation,The instructor lefton time,1,2.33,2.33
+Dr. MUHAMMAD SARIM,CS6003 ,Teacher Evaluation,The instructor is fair in examination,1,3.33,3.33
+Dr. MUHAMMAD SARIM,CS6003 ,Teacher Evaluation,The instructor returned the graded scripts etc. in a reasonable amount of time,1,3,3
+Dr. MUHAMMAD SARIM,CS6003 ,Teacher Evaluation,The instructor was available during the specified office hours,0,3.33,0
+Dr. MUHAMMAD SARIM,CS6003 ,Teacher Evaluation,The subject matter presented in the course has increased your knowledge of the subject,1,3.67,3.67
+Dr. MUHAMMAD SARIM,CS6003 ,Teacher Evaluation,The assignments and exams covered the materials presented in the course,1,3.67,3.67
+Dr. MUHAMMAD SARIM,CS6003 ,Teacher Evaluation,The course Material is modern and updated,0,4,0
+Dr. MUHAMMAD SARIM,CS6003 ,Student Contribution,Did you actively participated in this course,0,2.67,0
+Dr. MUHAMMAD SARIM,CS6003 ,Student Contribution,Did you learn from this course,1,3.67,3.67
+Dr. MUHAMMAD SARIM,CS6003 ,Learning Environment and Teaching methods,"Was this course well structured to achieve the learning outcomes (there was a good balance of lectures, tutorials, practicals etc.)",1,3.33,3.33
+Dr. MUHAMMAD SARIM,CS6003 ,Learning Environment and Teaching methods,Did the learning and teaching methods encouragedparticipation?,1,3.33,3.33
+Dr. MUHAMMAD SARIM,CS6003 ,Learning Environment and Teaching methods,Was classroom environment conducive to learning?,0,3.67,0
+Dr. MUHAMMAD SARIM,CS6003 ,Learning Environment and Teaching methods,Were classrooms satisfactory?,0,2.67,0
+Dr. MUHAMMAD SARIM,CS6003 ,Learning Resources,Recommended reading books etc. were relevant and appropriate,0,2.67,0
+Dr. MUHAMMAD SARIM,CS6003 ,Learning Resources,Provision of learning resources in the library was adequate and appropriate (if relevant),0,3,0
+Dr. MUHAMMAD SARIM,CS6003 ,Quality of Delivery,The course stimulated my interest and thought in the subject area,1,2,2
+Dr. MUHAMMAD SARIM,CS6003 ,Quality of Delivery,Pace of the course was appropriate,1,3,3
+Dr. MUHAMMAD SARIM,CS6003 ,Quality of Delivery,Ideas and concepts were presented clearly,1,3,3
+Dr. MUHAMMAD SARIM,CS6003 ,Instructor/TA evaluation,I understood the lectures,0,2.67,0
+Dr. MUHAMMAD SARIM,CS6003 ,Instructor/TA evaluation,The material was well organized and presented,1,2.67,2.67
+Dr. MUHAMMAD SARIM,CS6003 ,Instructor/TA evaluation,The instructor was responsive to student needs and problems,1,2.67,2.67
+Dr. MUHAMMAD SARIM,CS6003 ,Instructor/TA evaluation,Had the instructor been regular throughout the course?,1,3.67,3.67
+Dr. MUHAMMAD SARIM,CS6003 ,Tutorial,The material in the tutorials was useful,0,3.67,0
+Dr. MUHAMMAD SARIM,CS6003 ,Tutorial,I was happy with the amount of work needed for tutorials,0,3.33,0
+Dr. MUHAMMAD SARIM,CS6003 ,Tutorial,The tutor dealt effectively with my problems,0,3.33,0
+Syed Azhar ul Islam,MG5041 ,Course Content and organization,The course objective was clear,1,3.67,3.67
+Syed Azhar ul Islam,MG5041 ,Course Content and organization,The course workload was manageable,1,3.67,3.67
+Syed Azhar ul Islam,MG5041 ,Course Content and organization,"The course was well organized ( e.g. timely access to materials, notification of changes, etc.)",1,3.67,3.67
+Syed Azhar ul Islam,MG5041 ,Teacher Evaluation,The instructor is prepared for each class,1,3.52,3.52
+Syed Azhar ul Islam,MG5041 ,Teacher Evaluation,The instructor demonstrates knowledge of the subject,1,3.57,3.57
+Syed Azhar ul Islam,MG5041 ,Teacher Evaluation,The instructor has completed the whole course,1,3.57,3.57
+Syed Azhar ul Islam,MG5041 ,Teacher Evaluation,The instructor provides additional material apart from,1,3.67,3.67
+Syed Azhar ul Islam,MG5041 ,Teacher Evaluation,The instructor communicates the subject matter effectively,1,3.67,3.67
+Syed Azhar ul Islam,MG5041 ,Teacher Evaluation,The instructor shows respect towards students and encourages class participation,1,3.67,3.67
+Syed Azhar ul Islam,MG5041 ,Teacher Evaluation,The instructor arrived on time,1,3.52,3.52
+Syed Azhar ul Islam,MG5041 ,Teacher Evaluation,The instructor lefton time,1,3.62,3.62
+Syed Azhar ul Islam,MG5041 ,Teacher Evaluation,The instructor is fair in examination,1,3.71,3.71
+Syed Azhar ul Islam,MG5041 ,Teacher Evaluation,The instructor returned the graded scripts etc. in a reasonable amount of time,1,3.62,3.62
+Syed Azhar ul Islam,MG5041 ,Teacher Evaluation,The instructor was available during the specified office hours,1,3.52,3.52
+Syed Azhar ul Islam,MG5041 ,Teacher Evaluation,The subject matter presented in the course has increased your knowledge of the subject,1,3.62,3.62
+Syed Azhar ul Islam,MG5041 ,Teacher Evaluation,The assignments and exams covered the materials presented in the course,1,3.67,3.67
+Syed Azhar ul Islam,MG5041 ,Teacher Evaluation,The course Material is modern and updated,1,3.67,3.67
+Syed Azhar ul Islam,MG5041 ,Student Contribution,Did you actively participated in this course,1,3.62,3.62
+Syed Azhar ul Islam,MG5041 ,Student Contribution,Did you learn from this course,1,3.62,3.62
+Syed Azhar ul Islam,MG5041 ,Learning Environment and Teaching methods,"Was this course well structured to achieve the learning outcomes (there was a good balance of lectures, tutorials, practicals etc.)",1,3.67,3.67
+Syed Azhar ul Islam,MG5041 ,Learning Environment and Teaching methods,Did the learning and teaching methods encouragedparticipation?,1,3.67,3.67
+Syed Azhar ul Islam,MG5041 ,Learning Environment and Teaching methods,Was classroom environment conducive to learning?,1,3.57,3.57
+Syed Azhar ul Islam,MG5041 ,Learning Environment and Teaching methods,Were classrooms satisfactory?,1,3.57,3.57
+Syed Azhar ul Islam,MG5041 ,Learning Resources,Recommended reading books etc. were relevant and appropriate,1,3.57,3.57
+Syed Azhar ul Islam,MG5041 ,Learning Resources,Provision of learning resources in the library was adequate and appropriate (if relevant),1,3.67,3.67
+Syed Azhar ul Islam,MG5041 ,Quality of Delivery,The course stimulated my interest and thought in the subject area,1,3.67,3.67
+Sayed Yousuf,SE4031 ,Course Content and organization,The course objective was clear,0,3.79,0
+Sayed Yousuf,SE4031 ,Course Content and organization,The course workload was manageable,1,3.79,3.79
+Sayed Yousuf,SE4031 ,Course Content and organization,"The course was well organized ( e.g. timely access to materials, notification of changes, etc.)",1,3.75,3.75
+Sayed Yousuf,SE4031 ,Teacher Evaluation,The instructor is prepared for each class,1,3.67,3.67
+Sayed Yousuf,SE4031 ,Teacher Evaluation,The instructor demonstrates knowledge of the subject,1,3.73,3.73
+Sayed Yousuf,SE4031 ,Teacher Evaluation,The instructor has completed the whole course,1,3.69,3.69
+Sayed Yousuf,SE4031 ,Teacher Evaluation,The instructor provides additional material apart from,0,3.65,0
+Sayed Yousuf,SE4031 ,Teacher Evaluation,The instructor communicates the subject matter effectively,1,3.75,3.75
+Sayed Yousuf,SE4031 ,Teacher Evaluation,The instructor shows respect towards students and encourages class participation,1,3.63,3.63
+Sayed Yousuf,SE4031 ,Teacher Evaluation,The instructor arrived on time,1,3.65,3.65
+Sayed Yousuf,SE4031 ,Teacher Evaluation,The instructor lefton time,1,3.69,3.69
+Sayed Yousuf,SE4031 ,Teacher Evaluation,The instructor is fair in examination,1,3.48,3.48
+Sayed Yousuf,SE4031 ,Teacher Evaluation,The instructor returned the graded scripts etc. in a reasonable amount of time,1,3.31,3.31
+Sayed Yousuf,SE4031 ,Teacher Evaluation,The instructor was available during the specified office hours,0,3.65,0
+Sayed Yousuf,SE4031 ,Teacher Evaluation,The subject matter presented in the course has increased your knowledge of the subject,1,3.73,3.73
+Sayed Yousuf,SE4031 ,Teacher Evaluation,The assignments and exams covered the materials presented in the course,1,3.69,3.69
+Sayed Yousuf,SE4031 ,Teacher Evaluation,The course Material is modern and updated,0,3.71,0
+Sayed Yousuf,SE4031 ,Student Contribution,Did you actively participated in this course,0,3.73,0
+Sayed Yousuf,SE4031 ,Student Contribution,Did you learn from this course,1,3.69,3.69
+Sayed Yousuf,SE4031 ,Learning Environment and Teaching methods,"Was this course well structured to achieve the learning outcomes (there was a good balance of lectures, tutorials, practicals etc.)",1,3.71,3.71
+Sayed Yousuf,SE4031 ,Learning Environment and Teaching methods,Did the learning and teaching methods encouragedparticipation?,1,3.73,3.73
+Sayed Yousuf,SE4031 ,Learning Environment and Teaching methods,Was classroom environment conducive to learning?,0,3.71,0
+Sayed Yousuf,SE4031 ,Learning Environment and Teaching methods,Were classrooms satisfactory?,0,3.73,0
+Sayed Yousuf,SE4031 ,Learning Resources,Recommended reading books etc. were relevant and appropriate,0,3.46,0
+Sayed Yousuf,SE4031 ,Learning Resources,Provision of learning resources in the library was adequate and appropriate (if relevant),0,3.44,0
+Sayed Yousuf,SE4031 ,Quality of Delivery,The course stimulated my interest and thought in the subject area,1,3.46,3.46
+Sayed Yousuf,SE4031 ,Quality of Delivery,Pace of the course was appropriate,1,3.65,3.65
+Sayed Yousuf,SE4031 ,Quality of Delivery,Ideas and concepts were presented clearly,1,3.71,3.71
+Sayed Yousuf,SE4031 ,Instructor/TA evaluation,I understood the lectures,0,3.63,0
+Sayed Yousuf,SE4031 ,Instructor/TA evaluation,The material was well organized and presented,1,4,4
+Sayed Yousuf,SE4031 ,Instructor/TA evaluation,The instructor was responsive to student needs and problems,1,3.79,3.79
+Sayed Yousuf,SE4031 ,Instructor/TA evaluation,Had the instructor been regular throughout the course?,1,3.75,3.75
+Sayed Yousuf,SE4031 ,Tutorial,The material in the tutorials was useful,0,3.69,0
+Sayed Yousuf,SE4031 ,Tutorial,I was happy with the amount of work needed for tutorials,0,3.63,0
+Sayed Yousuf,SE4031 ,Tutorial,The tutor dealt effectively with my problems,0,3.69,0
